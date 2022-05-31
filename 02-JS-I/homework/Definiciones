@@ -1,0 +1,14 @@
+Definiciones:
+
+variable: una variable es un elemento de js (var), al que se le debe dar un nombre y se puede asignar un valor con el signo =.
+
+string: es una cadena de caracteres que siempre va dentro de comillas.
+
+funciones: sirve para agrupar codigo y guardarlo, para despues poder usarlo de forma mas accesible para no tener que repetir el mismo codigo muchas veces, las funciones pueden tener argumentos que estos vas especificados depsues del nomre entre ().
+
+declaraciones: return y socope. usamos return, cuando queremos que una funcion nos retorne algo y scope es el rango que abarca la funcion.
+
+
+valores booleanos: solo acepta dos valores (verdadero o falso) (encendido o apagado) (1 o 0)
+
+Martin
